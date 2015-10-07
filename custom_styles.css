@@ -1,3 +1,51 @@
+.Omnicalc {
+  color: grey;
+}
+
+.full-width{
+  background-color:   #D3D3D3;
+  padding: 5px;
+}
+
+.border {
+  border-style: solid;
+  border-color: red;
+}
+
+.button1 {
+
+  width: 81%;
+  position:relative;
+  left: 17%;}
+
+
+.result {
+font-weight: bold;
+text-align: right;
+position: relative;
+right: 80%;
+}
+
+.dl-horizontal dt{white-space: normal;word-wrap:break-word;}
+
+
+.input1 {
+  width: 81%;
+  height: 100px;
+
+  border-style: solid grey thin;
+  float: top;
+
+}
+  position: relative;
+    left: 115px;
+  border-radius: 5px;
+
+
+.tex {
+  color: red;
+}
+
 body {
 
 }
